@@ -36,4 +36,7 @@ printPattern(n);
 }  
 }
 Why are we using the GIT Hub tool now ofor the source code purpose.
+why we adding the process of second commit
+sorry we are in the same branch dew
+we are commiting second chnaces in dev
 
